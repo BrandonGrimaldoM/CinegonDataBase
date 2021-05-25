@@ -7,5 +7,5 @@ Esta base de datos en Oracle pertenece a la aplicación Cinegon: https://github.
 *nota: es importante que el nombre de usuario sea cine y la clave sea clave.
 
 # ERM
-![](https://github.com/BrandonGrimaldoM/GameOverWebDataBase/blob/master/BD/ERM.PNG)
+![](https://github.com/BrandonGrimaldoM/CinegonDataBase/blob/master/BD/ERM.PNG)
 
